@@ -6,12 +6,13 @@
 Currently, study at Ahsanullah University Of Science And Technology.
 
 
-Skills: Object Oriented Programming, C, C++, Python, Machine Learning
+Skills: Object Oriented Programming, C, C++, Python, Matlab, Digital Image Processing, Machine Learning.
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: rezonetahan2006@gmail.com 
+- 📫 How to reach me: rezonetahan2006@gmail.com, 180104037@aust.edu
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RezoneTahan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sheikh MD Rezone Ullah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rezone Tahan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ rezone_tahan_2006/)  
