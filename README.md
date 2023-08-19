@@ -1,6 +1,6 @@
   ![Software Engineer- QA](https://i.ibb.co/b3vFsdL/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg)
 <br>
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=RezoneTahan&&style=flat-square" align="center" />
 </div>  
 
