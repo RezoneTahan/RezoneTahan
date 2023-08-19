@@ -13,7 +13,7 @@ Skills: PYTHON/JAVA/C/C++/JAVASCRIPT/SELNIUM-JAVA/POSTMAN/JMETER/MS OFFICE
 - 📫 How to reach me: rezonetahan2006@gmail.com 
 
 ## Connect with me  
-<div align="center">
+<div align="right">
 <a href="https://github.com/RezoneTahan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
