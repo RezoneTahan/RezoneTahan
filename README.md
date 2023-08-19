@@ -1,7 +1,7 @@
   ![Software Engineer- QA](https://i.ibb.co/b3vFsdL/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg)
 
-### Hi there 👋, Sheikh Md. Rezone Ullah
-#### Software Engineer- QA
+## Hi there 👋, Sheikh Md. Rezone Ullah
+### Software Engineer- QA 💼
 
 
 Myself Sheikh Md. Rezone Ullah. I have completed my B.Sc. in CSE from Ahsanullah University of Science and Technology. After my graduation, I started my career as QA in Globetech LTD in November 2022. Then I enrolled in an SQA course in Bug resistance. I have been working in BJIT as a trainee SQA engineer since August 2023. Besides, I interested areas are Data Science, Cyber Security, and DevOps. In my free time, I used to watch cricket, football.
