@@ -96,7 +96,7 @@ Skills: PYTHON/JAVA/C/C++/JAVASCRIPT/SELNIUM-JAVA/POSTMAN/JMETER/MS OFFICE
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RezoneTahan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RezoneTahan)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RezoneTahan\&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RezoneTahan&show_icons=true&count_private=true)  
 
