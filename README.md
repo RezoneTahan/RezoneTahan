@@ -98,7 +98,7 @@ Skills: PYTHON/JAVA/C/C++/JAVASCRIPT/SELNIUM-JAVA/POSTMAN/JMETER/MS OFFICE
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RezoneTahan\&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RezoneTahan&show_icons=true&count_private=true)  
+![Rezone's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezoneTahan\&show_icons=true\&theme=radical)
 
 
 
