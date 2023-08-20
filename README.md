@@ -1,4 +1,4 @@
-  ![Software Engineer- QA](https://ibb.co/ctp80hq"><img src="https://i.ibb.co/Dk6Mhfd/Black-Modern-Vlogger-You-Tube-Banner.png)
+<a href="https://ibb.co/ctp80hq"><img src="https://i.ibb.co/Dk6Mhfd/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Black-Modern-Vlogger-You-Tube-Banner" border="0"></a>
 
 ## Hi there 👋, Sheikh Md. Rezone Ullah
 ### Software Engineer- QA 💼
