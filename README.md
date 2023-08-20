@@ -139,7 +139,6 @@ Skills: PYTHON/JAVA/C/C++/JAVASCRIPT/TEST CASE WRITING/SELENIUM-JAVA/POSTMAN/JME
 
 ![Rezone's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezoneTahan\&show_icons=true\&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rezone Tahan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403a3a&area=true&hide_border=true)](https://github.com/RezoneTahan/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/RezoneTahan)  
 
